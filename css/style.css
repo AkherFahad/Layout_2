@@ -1,8 +1,10 @@
+.background_color{
+	background-color: #0a1510;}
 .container{
 	width:1200px;
 	height:800px;
 	background:black;
-	margin:auto;
+	margin:0 auto;
 }
 .content-part{
 	width:1200px;
@@ -95,3 +97,8 @@
 	font-size:30px;
 	color:white
 }
+.bd{
+	background-color: #191818;
+}
+.background_color{
+	background-color: #191818;
